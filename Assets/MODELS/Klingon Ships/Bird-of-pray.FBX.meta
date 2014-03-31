@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 6f76390525e6f5b43928002a4c74aac5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: black
+    100004: bop-cut
+    100006: BOP-flat-1
+    100008: BOP-flat-r
+    100010: bop-gree10
+    100012: bop-gree11
+    100014: bop-gree12
+    100016: bop-gree13
+    100018: bop-gree14
+    100020: bop-gree15
+    100022: bop-gree16
+    100024: bop-gree17
+    100026: bop-gree18
+    100028: bop-green
+    100030: bop-green1
+    100032: bop-green2
+    100034: bop-green3
+    100036: bop-green4
+    100038: bop-green5
+    100040: bop-green6
+    100042: bop-green7
+    100044: bop-green8
+    100046: bop-green9
+    100048: bop1
+    100050: bop2
+    100052: bop3-b
+    100054: bop4
+    100056: bop5
+    100058: cut-2
+    100060: flat-blk
+    100062: gun-metal
+    100064: gun-metal1
+    100066: gun-metal2
+    100068: gunshipgr1
+    100070: gunshipgry
+    100072: inner-coo1
+    100074: inner-coo2
+    100076: inner-coo3
+    100078: inner-cool
+    100080: lt-grey
+    100082: marker-li1
+    100084: marker-lig
+    100086: Metal2
+    100088: 'Metal2 #2'
+    100090: 'Metal2 #3'
+    100092: 'Metal2 #4'
+    100094: metal3
+    100096: 'metal3 #2'
+    100098: 'metal3 #3'
+    100100: 'metal3 #4'
+    100102: photon-re1
+    100104: photon-red
+    100106: radiator1
+    100108: radiator11
+    100110: radiator2
+    100112: radiator21
+    100114: red-glow
+    100116: 'red-glow #'
+    100118: red-windo-
+    100120: red-window
+    100122: rust
+    100124: 'rust #2'
+    100126: 'rust #3'
+    100128: 'rust #4'
+    100130: sidegrn
+    100132: sidegrncut
+    100134: vent-grey
+    100136: wht-light
+    100138: wht-light1
+    100140: wing-rear-
+    100142: yellow-glo
+    400000: //RootNode
+    400002: black
+    400004: bop-cut
+    400006: BOP-flat-1
+    400008: BOP-flat-r
+    400010: bop-gree10
+    400012: bop-gree11
+    400014: bop-gree12
+    400016: bop-gree13
+    400018: bop-gree14
+    400020: bop-gree15
+    400022: bop-gree16
+    400024: bop-gree17
+    400026: bop-gree18
+    400028: bop-green
+    400030: bop-green1
+    400032: bop-green2
+    400034: bop-green3
+    400036: bop-green4
+    400038: bop-green5
+    400040: bop-green6
+    400042: bop-green7
+    400044: bop-green8
+    400046: bop-green9
+    400048: bop1
+    400050: bop2
+    400052: bop3-b
+    400054: bop4
+    400056: bop5
+    400058: cut-2
+    400060: flat-blk
+    400062: gun-metal
+    400064: gun-metal1
+    400066: gun-metal2
+    400068: gunshipgr1
+    400070: gunshipgry
+    400072: inner-coo1
+    400074: inner-coo2
+    400076: inner-coo3
+    400078: inner-cool
+    400080: lt-grey
+    400082: marker-li1
+    400084: marker-lig
+    400086: Metal2
+    400088: 'Metal2 #2'
+    400090: 'Metal2 #3'
+    400092: 'Metal2 #4'
+    400094: metal3
+    400096: 'metal3 #2'
+    400098: 'metal3 #3'
+    400100: 'metal3 #4'
+    400102: photon-re1
+    400104: photon-red
+    400106: radiator1
+    400108: radiator11
+    400110: radiator2
+    400112: radiator21
+    400114: red-glow
+    400116: 'red-glow #'
+    400118: red-windo-
+    400120: red-window
+    400122: rust
+    400124: 'rust #2'
+    400126: 'rust #3'
+    400128: 'rust #4'
+    400130: sidegrn
+    400132: sidegrncut
+    400134: vent-grey
+    400136: wht-light
+    400138: wht-light1
+    400140: wing-rear-
+    400142: yellow-glo
+    2300000: black
+    2300002: bop-cut
+    2300004: BOP-flat-1
+    2300006: BOP-flat-r
+    2300008: bop-gree10
+    2300010: bop-gree11
+    2300012: bop-gree12
+    2300014: bop-gree13
+    2300016: bop-gree14
+    2300018: bop-gree15
+    2300020: bop-gree16
+    2300022: bop-gree17
+    2300024: bop-gree18
+    2300026: bop-green
+    2300028: bop-green1
+    2300030: bop-green2
+    2300032: bop-green3
+    2300034: bop-green4
+    2300036: bop-green5
+    2300038: bop-green6
+    2300040: bop-green7
+    2300042: bop-green8
+    2300044: bop-green9
+    2300046: cut-2
+    2300048: flat-blk
+    2300050: gun-metal
+    2300052: gun-metal1
+    2300054: gun-metal2
+    2300056: gunshipgr1
+    2300058: gunshipgry
+    2300060: inner-coo1
+    2300062: inner-coo2
+    2300064: inner-coo3
+    2300066: inner-cool
+    2300068: lt-grey
+    2300070: marker-li1
+    2300072: marker-lig
+    2300074: Metal2
+    2300076: 'Metal2 #2'
+    2300078: 'Metal2 #3'
+    2300080: 'Metal2 #4'
+    2300082: metal3
+    2300084: 'metal3 #2'
+    2300086: 'metal3 #3'
+    2300088: 'metal3 #4'
+    2300090: photon-re1
+    2300092: photon-red
+    2300094: radiator1
+    2300096: radiator11
+    2300098: radiator2
+    2300100: radiator21
+    2300102: red-glow
+    2300104: 'red-glow #'
+    2300106: red-windo-
+    2300108: red-window
+    2300110: rust
+    2300112: 'rust #2'
+    2300114: 'rust #3'
+    2300116: 'rust #4'
+    2300118: sidegrn
+    2300120: sidegrncut
+    2300122: vent-grey
+    2300124: wht-light
+    2300126: wht-light1
+    2300128: wing-rear-
+    2300130: yellow-glo
+    3300000: black
+    3300002: bop-cut
+    3300004: BOP-flat-1
+    3300006: BOP-flat-r
+    3300008: bop-gree10
+    3300010: bop-gree11
+    3300012: bop-gree12
+    3300014: bop-gree13
+    3300016: bop-gree14
+    3300018: bop-gree15
+    3300020: bop-gree16
+    3300022: bop-gree17
+    3300024: bop-gree18
+    3300026: bop-green
+    3300028: bop-green1
+    3300030: bop-green2
+    3300032: bop-green3
+    3300034: bop-green4
+    3300036: bop-green5
+    3300038: bop-green6
+    3300040: bop-green7
+    3300042: bop-green8
+    3300044: bop-green9
+    3300046: cut-2
+    3300048: flat-blk
+    3300050: gun-metal
+    3300052: gun-metal1
+    3300054: gun-metal2
+    3300056: gunshipgr1
+    3300058: gunshipgry
+    3300060: inner-coo1
+    3300062: inner-coo2
+    3300064: inner-coo3
+    3300066: inner-cool
+    3300068: lt-grey
+    3300070: marker-li1
+    3300072: marker-lig
+    3300074: Metal2
+    3300076: 'Metal2 #2'
+    3300078: 'Metal2 #3'
+    3300080: 'Metal2 #4'
+    3300082: metal3
+    3300084: 'metal3 #2'
+    3300086: 'metal3 #3'
+    3300088: 'metal3 #4'
+    3300090: photon-re1
+    3300092: photon-red
+    3300094: radiator1
+    3300096: radiator11
+    3300098: radiator2
+    3300100: radiator21
+    3300102: red-glow
+    3300104: 'red-glow #'
+    3300106: red-windo-
+    3300108: red-window
+    3300110: rust
+    3300112: 'rust #2'
+    3300114: 'rust #3'
+    3300116: 'rust #4'
+    3300118: sidegrn
+    3300120: sidegrncut
+    3300122: vent-grey
+    3300124: wht-light
+    3300126: wht-light1
+    3300128: wing-rear-
+    3300130: yellow-glo
+    4300000: inner-cool
+    4300002: radiator1
+    4300004: radiator2
+    4300006: 'Metal2 #4'
+    4300008: bop-green
+    4300010: bop-green3
+    4300012: bop-green4
+    4300014: bop-green5
+    4300016: 'metal3 #4'
+    4300018: photon-red
+    4300020: photon-re1
+    4300022: 'rust #4'
+    4300024: BOP-flat-r
+    4300026: BOP-flat-1
+    4300028: 'Metal2 #3'
+    4300030: bop-cut
+    4300032: bop-green1
+    4300034: bop-green2
+    4300036: bop-green6
+    4300038: bop-green7
+    4300040: bop-green8
+    4300042: cut-2
+    4300044: gun-metal
+    4300046: inner-coo1
+    4300048: inner-coo2
+    4300050: inner-coo3
+    4300052: 'metal3 #3'
+    4300054: radiator11
+    4300056: radiator21
+    4300058: 'red-glow #'
+    4300060: 'rust #3'
+    4300062: vent-grey
+    4300064: wing-rear-
+    4300066: 'Metal2 #2'
+    4300068: black
+    4300070: bop-green9
+    4300072: bop-gree10
+    4300074: bop-gree11
+    4300076: bop-gree12
+    4300078: bop-gree13
+    4300080: gun-metal1
+    4300082: marker-lig
+    4300084: 'metal3 #2'
+    4300086: 'rust #2'
+    4300088: wht-light
+    4300090: Metal2
+    4300092: bop-gree14
+    4300094: bop-gree15
+    4300096: bop-gree16
+    4300098: bop-gree17
+    4300100: bop-gree18
+    4300102: flat-blk
+    4300104: gun-metal2
+    4300106: gunshipgry
+    4300108: gunshipgr1
+    4300110: lt-grey
+    4300112: marker-li1
+    4300114: metal3
+    4300116: red-glow
+    4300118: red-windo-
+    4300120: red-window
+    4300122: rust
+    4300124: sidegrn
+    4300126: sidegrncut
+    4300128: wht-light1
+    4300130: yellow-glo
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 7ae49f742c265bc4ba9f759a84d51691
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aft and bottom hull
+    100002: aft details
+    100004: aft plate
+    100006: bridge
+    100008: bridge dome
+    100010: bridge top
+    100012: bussard - p
+    100014: bussard - s
+    100016: bussard housing - p
+    100018: bussard housing - s
+    100020: cannons
+    100022: defiant - bussard lights
+    100024: defiant - deflector lights
+    100026: defiant - lights
+    100028: defiant - red vent light p 01
+    100030: defiant - red vent light p 02
+    100032: defiant - red vent light p 03
+    100034: defiant - red vent light p 04
+    100036: defiant - red vent light p 05
+    100038: defiant - red vent light p 06
+    100040: defiant - red vent lights
+    100042: defiant - ship
+    100044: defiant - warp lights
+    100046: defiant bussard omni - p-1
+    100048: defiant bussard omni - p-2
+    100050: defiant bussard omni - s-1
+    100052: defiant bussard omni - s-2
+    100054: defiant bussard volume omni - p
+    100056: defiant bussard volume omni - s
+    100058: defiant deflector light-01
+    100060: defiant deflector light-02
+    100062: defiant deflector light-03
+    100064: defiant impulse omni - p
+    100066: defiant impulse omni - s
+    100068: defiant omni grn 01
+    100070: defiant omni grn 02
+    100072: defiant omni red 01
+    100074: defiant omni red 02
+    100076: defiant omni wht 01
+    100078: defiant omni wht 02
+    100080: defiant omni wht 03
+    100082: defiant omni wht 04
+    100084: defiant omni wht 05
+    100086: defiant omni wht 06
+    100088: defiant omni wht 07
+    100090: defiant omni wht 08
+    100092: defiant spot 01
+    100094: defiant spot 02
+    100096: defiant warp omni - p-1
+    100098: defiant warp omni - p-2
+    100100: defiant warp omni - p-3
+    100102: defiant warp omni - p-4
+    100104: defiant warp omni - p-5
+    100106: defiant warp omni - p-6
+    100108: defiant warp omni - s-1
+    100110: defiant warp omni - s-2
+    100112: defiant warp omni - s-3
+    100114: defiant warp omni - s-4
+    100116: defiant warp omni - s-5
+    100118: defiant warp omni - s-6
+    100120: //RootNode
+    100122: deflector
+    100124: deflector housing
+    100126: fwd hull
+    100128: hull details bottom
+    100130: hull details top
+    100132: impulse engine - p
+    100134: impulse engine - s
+    100136: mid aft hull
+    100138: mid hull
+    100140: nacelle - p
+    100142: nacelle - s
+    100144: nacelle back - p
+    100146: nacelle back - s
+    100148: nacelle details - p
+    100150: nacelle details - s
+    100152: nacelle front - p
+    100154: nacelle front - s
+    100156: navs
+    100158: nose
+    100160: nose connector
+    100162: nose details
+    100164: plasma vents
+    100166: sensors
+    100168: shuttlebay
+    100170: thrusters
+    100172: torp inset - p
+    100174: torp inset - s
+    100176: torp launcher - p
+    100178: torp launcher - s
+    100180: upper deck
+    100182: vent caps
+    100184: vent grids
+    100186: vent plates
+    100188: warp glass - p
+    100190: warp glass - s
+    100192: warp glow - p
+    100194: warp glow - s
+    100196: warp grille - p
+    100198: warp grille - s
+    400000: aft and bottom hull
+    400002: aft details
+    400004: aft plate
+    400006: bridge
+    400008: bridge dome
+    400010: bridge top
+    400012: bussard - p
+    400014: bussard - s
+    400016: bussard housing - p
+    400018: bussard housing - s
+    400020: cannons
+    400022: defiant - bussard lights
+    400024: defiant - deflector lights
+    400026: defiant - lights
+    400028: defiant - red vent light p 01
+    400030: defiant - red vent light p 02
+    400032: defiant - red vent light p 03
+    400034: defiant - red vent light p 04
+    400036: defiant - red vent light p 05
+    400038: defiant - red vent light p 06
+    400040: defiant - red vent lights
+    400042: defiant - ship
+    400044: defiant - warp lights
+    400046: defiant bussard omni - p-1
+    400048: defiant bussard omni - p-2
+    400050: defiant bussard omni - s-1
+    400052: defiant bussard omni - s-2
+    400054: defiant bussard volume omni - p
+    400056: defiant bussard volume omni - s
+    400058: defiant deflector light-01
+    400060: defiant deflector light-02
+    400062: defiant deflector light-03
+    400064: defiant impulse omni - p
+    400066: defiant impulse omni - s
+    400068: defiant omni grn 01
+    400070: defiant omni grn 02
+    400072: defiant omni red 01
+    400074: defiant omni red 02
+    400076: defiant omni wht 01
+    400078: defiant omni wht 02
+    400080: defiant omni wht 03
+    400082: defiant omni wht 04
+    400084: defiant omni wht 05
+    400086: defiant omni wht 06
+    400088: defiant omni wht 07
+    400090: defiant omni wht 08
+    400092: defiant spot 01
+    400094: defiant spot 02
+    400096: defiant warp omni - p-1
+    400098: defiant warp omni - p-2
+    400100: defiant warp omni - p-3
+    400102: defiant warp omni - p-4
+    400104: defiant warp omni - p-5
+    400106: defiant warp omni - p-6
+    400108: defiant warp omni - s-1
+    400110: defiant warp omni - s-2
+    400112: defiant warp omni - s-3
+    400114: defiant warp omni - s-4
+    400116: defiant warp omni - s-5
+    400118: defiant warp omni - s-6
+    400120: //RootNode
+    400122: deflector
+    400124: deflector housing
+    400126: fwd hull
+    400128: hull details bottom
+    400130: hull details top
+    400132: impulse engine - p
+    400134: impulse engine - s
+    400136: mid aft hull
+    400138: mid hull
+    400140: nacelle - p
+    400142: nacelle - s
+    400144: nacelle back - p
+    400146: nacelle back - s
+    400148: nacelle details - p
+    400150: nacelle details - s
+    400152: nacelle front - p
+    400154: nacelle front - s
+    400156: navs
+    400158: nose
+    400160: nose connector
+    400162: nose details
+    400164: plasma vents
+    400166: sensors
+    400168: shuttlebay
+    400170: thrusters
+    400172: torp inset - p
+    400174: torp inset - s
+    400176: torp launcher - p
+    400178: torp launcher - s
+    400180: upper deck
+    400182: vent caps
+    400184: vent grids
+    400186: vent plates
+    400188: warp glass - p
+    400190: warp glass - s
+    400192: warp glow - p
+    400194: warp glow - s
+    400196: warp grille - p
+    400198: warp grille - s
+    2300000: aft and bottom hull
+    2300002: aft details
+    2300004: aft plate
+    2300006: bridge
+    2300008: bridge dome
+    2300010: bridge top
+    2300012: bussard - p
+    2300014: bussard - s
+    2300016: bussard housing - p
+    2300018: bussard housing - s
+    2300020: cannons
+    2300022: deflector
+    2300024: deflector housing
+    2300026: fwd hull
+    2300028: hull details bottom
+    2300030: hull details top
+    2300032: impulse engine - p
+    2300034: impulse engine - s
+    2300036: mid aft hull
+    2300038: mid hull
+    2300040: nacelle - p
+    2300042: nacelle - s
+    2300044: nacelle back - p
+    2300046: nacelle back - s
+    2300048: nacelle details - p
+    2300050: nacelle details - s
+    2300052: nacelle front - p
+    2300054: nacelle front - s
+    2300056: navs
+    2300058: nose
+    2300060: nose connector
+    2300062: nose details
+    2300064: plasma vents
+    2300066: sensors
+    2300068: shuttlebay
+    2300070: thrusters
+    2300072: torp inset - p
+    2300074: torp inset - s
+    2300076: torp launcher - p
+    2300078: torp launcher - s
+    2300080: upper deck
+    2300082: vent caps
+    2300084: vent grids
+    2300086: vent plates
+    2300088: warp glass - p
+    2300090: warp glass - s
+    2300092: warp glow - p
+    2300094: warp glow - s
+    2300096: warp grille - p
+    2300098: warp grille - s
+    3300000: aft and bottom hull
+    3300002: aft details
+    3300004: aft plate
+    3300006: bridge
+    3300008: bridge dome
+    3300010: bridge top
+    3300012: bussard - p
+    3300014: bussard - s
+    3300016: bussard housing - p
+    3300018: bussard housing - s
+    3300020: cannons
+    3300022: deflector
+    3300024: deflector housing
+    3300026: fwd hull
+    3300028: hull details bottom
+    3300030: hull details top
+    3300032: impulse engine - p
+    3300034: impulse engine - s
+    3300036: mid aft hull
+    3300038: mid hull
+    3300040: nacelle - p
+    3300042: nacelle - s
+    3300044: nacelle back - p
+    3300046: nacelle back - s
+    3300048: nacelle details - p
+    3300050: nacelle details - s
+    3300052: nacelle front - p
+    3300054: nacelle front - s
+    3300056: navs
+    3300058: nose
+    3300060: nose connector
+    3300062: nose details
+    3300064: plasma vents
+    3300066: sensors
+    3300068: shuttlebay
+    3300070: thrusters
+    3300072: torp inset - p
+    3300074: torp inset - s
+    3300076: torp launcher - p
+    3300078: torp launcher - s
+    3300080: upper deck
+    3300082: vent caps
+    3300084: vent grids
+    3300086: vent plates
+    3300088: warp glass - p
+    3300090: warp glass - s
+    3300092: warp glow - p
+    3300094: warp glow - s
+    3300096: warp grille - p
+    3300098: warp grille - s
+    4300000: sensors
+    4300002: nacelle front - s
+    4300004: vent grids
+    4300006: deflector
+    4300008: warp glass - p
+    4300010: nacelle back - s
+    4300012: warp glass - s
+    4300014: warp grille - p
+    4300016: warp grille - s
+    4300018: impulse engine - p
+    4300020: impulse engine - s
+    4300022: nacelle front - p
+    4300024: nacelle - s
+    4300026: bridge
+    4300028: bridge top
+    4300030: nacelle - p
+    4300032: shuttlebay
+    4300034: nose
+    4300036: deflector housing
+    4300038: fwd hull
+    4300040: nacelle back - p
+    4300042: mid aft hull
+    4300044: mid hull
+    4300046: torp inset - s
+    4300048: torp inset - p
+    4300050: vent caps
+    4300052: vent plates
+    4300054: aft and bottom hull
+    4300056: torp launcher - s
+    4300058: torp launcher - p
+    4300060: plasma vents
+    4300062: bridge dome
+    4300064: aft plate
+    4300066: aft details
+    4300068: nose connector
+    4300070: nose details
+    4300072: nacelle details - s
+    4300074: nacelle details - p
+    4300076: thrusters
+    4300078: cannons
+    4300080: bussard - p
+    4300082: hull details bottom
+    4300084: hull details top
+    4300086: bussard housing - p
+    4300088: bussard housing - s
+    4300090: bussard - s
+    4300092: navs
+    4300094: upper deck
+    4300096: warp glow - s
+    4300098: warp glow - p
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

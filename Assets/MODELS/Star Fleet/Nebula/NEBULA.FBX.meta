@@ -1,0 +1,1142 @@
+fileFormatVersion: 2
+guid: c429312d03ecd0644834a022dbb970b2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Back
+    100002: Back 1
+    100004: Back Farragut
+    100006: Back Parts
+    100008: Back Reg Farragut
+    100010: Back Reg Phoenix
+    100012: Back Reg Sutherland
+    100014: BackCargoDoor
+    100016: Bottom Phaser
+    100018: Box01
+    100020: Box02
+    100022: Box03
+    100024: Box04
+    100026: Box05
+    100028: Box06
+    100030: Box07
+    100032: Box08
+    100034: Box09
+    100036: Box10
+    100038: Box11
+    100040: Box12
+    100042: Box13
+    100044: Box14
+    100046: Box15
+    100048: Box16
+    100050: Box17
+    100052: Box18
+    100054: Box19
+    100056: Box20
+    100058: Box21
+    100060: Box22
+    100062: Box23
+    100064: Box24
+    100066: Box25
+    100068: Box26
+    100070: Box27
+    100072: Box28
+    100074: Box29
+    100076: Box30
+    100078: Box31
+    100080: Box33
+    100082: Box34
+    100084: Box37
+    100086: Box95
+    100088: Bridge
+    100090: Bussard06
+    100092: Bussard07
+    100094: Camera01
+    100096: Camera01.Target
+    100098: Camera02
+    100100: Camera02.Target
+    100102: Camera03
+    100104: Camera04
+    100106: Camera05
+    100108: Camera06
+    100110: Camera06.Target
+    100112: Camera07
+    100114: Camera08
+    100116: Camera09
+    100118: Camera10
+    100120: Camera11
+    100122: Camera11.Target
+    100124: Capsule03
+    100126: Capsule04
+    100128: Capsule05
+    100130: Capsule06
+    100132: Capsule11
+    100134: Capsule12
+    100136: Capsule19
+    100138: Capsule23
+    100140: Capsule24
+    100142: Capsule25
+    100144: Capsule26
+    100146: Capsule27
+    100148: Capsule28
+    100150: Capsule29
+    100152: Capsule30
+    100154: Capsule31
+    100156: Capsule32
+    100158: Capsule33
+    100160: Capt Yacth
+    100162: CargoDoorLight
+    100164: CargoDoorLightF
+    100166: CargoFloor
+    100168: CargoFloor Farragut
+    100170: ChamferBox01
+    100172: ChamferBox02
+    100174: ChamferBox09
+    100176: ChamferCyl01
+    100178: ChamferCyl02
+    100180: ChamferCyl03
+    100182: ChamferCyl04
+    100184: ChamferCyl05
+    100186: ChamferCyl06
+    100188: ChamferCyl08
+    100190: Cylinder01
+    100192: Cylinder02
+    100194: Deflector Light
+    100196: Effect Lights
+    100198: Escape Pods01
+    100200: Escape Pods02
+    100202: Escape Pods03
+    100204: Escape Pods04
+    100206: Escape Pods05
+    100208: Escape Pods06
+    100210: Escape Pods08
+    100212: Farragut Parts
+    100214: Fspot01
+    100216: Fspot02
+    100218: Fspot03
+    100220: Fspot04
+    100222: Fspot05
+    100224: Fspot06
+    100226: Fspot07
+    100228: Fspot08
+    100230: Fspot09
+    100232: Fspot10
+    100234: Fspot11
+    100236: Fspot12
+    100238: Fspot13
+    100240: Fspot14
+    100242: Fspot15
+    100244: Fspot16
+    100246: Fspot17
+    100248: Fspot18
+    100250: Fspot19
+    100252: Fspot20
+    100254: Fspot21
+    100256: Fspot22
+    100258: Fspot23
+    100260: Fspot24
+    100262: Fspot25
+    100264: Fspot26
+    100266: Fspot27
+    100268: Fspot28
+    100270: Fspot29
+    100272: Fspot30
+    100274: Fspot31
+    100276: Fspot32
+    100278: Fspot33
+    100280: Fspot34
+    100282: Fspot35
+    100284: Fspot36
+    100286: Fspot37
+    100288: Fspot38
+    100290: Fspot39
+    100292: Fspot40
+    100294: Fspot41
+    100296: Fspot42
+    100298: Fspot43
+    100300: Fspot44
+    100302: Fspot45
+    100304: Fspot46
+    100306: Fspot47
+    100308: Fspot48
+    100310: Fspot49
+    100312: Fspot50
+    100314: Fspot51
+    100316: Fspot52
+    100318: Fspot53
+    100320: Fspot54
+    100322: Fspot55
+    100324: Fspot56
+    100326: Fspot57
+    100328: Fspot58
+    100330: Fspot59
+    100332: Fspot60
+    100334: Fspot61
+    100336: Fspot62
+    100338: Fspot63
+    100340: Gengon01
+    100342: Gengon02
+    100344: Gengon03
+    100346: Impulse
+    100348: Line65
+    100350: LNacelle
+    100352: LNacelle Light
+    100354: Loft01
+    100356: Loft03
+    100358: Loft06
+    100360: Loft12
+    100362: LPilon
+    100364: LPilon 1
+    100366: LSmall Phaser
+    100368: Nacelle Conn04
+    100370: Nacelle Conn05
+    100372: Nacelle07
+    100374: Nacelle08
+    100376: nDeflector
+    100378: nDeflector Inside
+    100380: //RootNode
+    100382: Object01
+    100384: Object03
+    100386: OilTank01
+    100388: OilTank02
+    100390: OilTank03
+    100392: OilTank04
+    100394: Old_Deflector
+    100396: Old_Deflector inside
+    100398: Omni01
+    100400: Omni02
+    100402: Omni03
+    100404: Omni04
+    100406: Omni05
+    100408: Phoenix Parts
+    100410: Rear Border
+    100412: Rear Shuttle Bay Door Farragut
+    100414: Rectangle01
+    100416: Rectangle121
+    100418: Rectangle15
+    100420: Rectangle31
+    100422: Rectangle317
+    100424: Rectangle318
+    100426: Rectangle319
+    100428: Rectangle32
+    100430: Rectangle320
+    100432: Rectangle321
+    100434: Rectangle322
+    100436: Rectangle34
+    100438: Rectangle37
+    100440: Rectangle389
+    100442: Rectangle393
+    100444: Rectangle394
+    100446: Reg Light
+    100448: Reg Light.Target
+    100450: RNacelle
+    100452: RNacelle Light
+    100454: RPilon
+    100456: RPilon 1
+    100458: RSmall Phaser
+    100460: RunLight01
+    100462: RunLight02
+    100464: RunLight03
+    100466: RunLight04
+    100468: RunLight05
+    100470: RunLight06
+    100472: RunLight07
+    100474: RunLight08
+    100476: RunLight09
+    100478: RunLight10
+    100480: RunLight11
+    100482: RunLight12
+    100484: RunLight13
+    100486: RunLight14
+    100488: RunLight15
+    100490: RunLight16
+    100492: RunLight16 1
+    100494: RunLight17
+    100496: RunLight18
+    100498: RunLight19
+    100500: RunLight20
+    100502: RunLight21
+    100504: RunLight22
+    100506: RunLight23
+    100508: RunLight24
+    100510: RunLight25
+    100512: RunLight26
+    100514: RunLight27
+    100516: RunLight28
+    100518: RunLight29
+    100520: RunLight30
+    100522: Running Lights
+    100524: Saucer
+    100526: Saucer Details B
+    100528: Saucer Details T
+    100530: Saucer_MeshPart0
+    100532: Saucer_MeshPart1
+    100534: Sec Hull
+    100536: Sec Hull Detail
+    100538: Sec Hull Detail01
+    100540: SecHullPhaser
+    100542: Sensor Box Connection
+    100544: Sensor Connection
+    100546: Sensor Pod
+    100548: SensorsPod
+    100550: ShuttleBayDoor
+    100552: ShuttleBayFloor
+    100554: Sphere01
+    100556: Sphere01 1
+    100558: Sutherland Parts
+    100560: Text06
+    100562: Text07
+    100564: Text08
+    100566: Text09
+    100568: Top Phaser
+    100570: Top Sec Hull
+    100572: TopSaucer
+    100574: TopSaucerBorder
+    100576: Waepon Reg Sutherland
+    100578: Weapon Reg Farragut
+    100580: WeaponPod
+    100582: WeaponsPod
+    100584: YellowPart06
+    100586: YellowPart07
+    400000: Back
+    400002: Back 1
+    400004: Back Farragut
+    400006: Back Parts
+    400008: Back Reg Farragut
+    400010: Back Reg Phoenix
+    400012: Back Reg Sutherland
+    400014: BackCargoDoor
+    400016: Bottom Phaser
+    400018: Box01
+    400020: Box02
+    400022: Box03
+    400024: Box04
+    400026: Box05
+    400028: Box06
+    400030: Box07
+    400032: Box08
+    400034: Box09
+    400036: Box10
+    400038: Box11
+    400040: Box12
+    400042: Box13
+    400044: Box14
+    400046: Box15
+    400048: Box16
+    400050: Box17
+    400052: Box18
+    400054: Box19
+    400056: Box20
+    400058: Box21
+    400060: Box22
+    400062: Box23
+    400064: Box24
+    400066: Box25
+    400068: Box26
+    400070: Box27
+    400072: Box28
+    400074: Box29
+    400076: Box30
+    400078: Box31
+    400080: Box33
+    400082: Box34
+    400084: Box37
+    400086: Box95
+    400088: Bridge
+    400090: Bussard06
+    400092: Bussard07
+    400094: Camera01
+    400096: Camera01.Target
+    400098: Camera02
+    400100: Camera02.Target
+    400102: Camera03
+    400104: Camera04
+    400106: Camera05
+    400108: Camera06
+    400110: Camera06.Target
+    400112: Camera07
+    400114: Camera08
+    400116: Camera09
+    400118: Camera10
+    400120: Camera11
+    400122: Camera11.Target
+    400124: Capsule03
+    400126: Capsule04
+    400128: Capsule05
+    400130: Capsule06
+    400132: Capsule11
+    400134: Capsule12
+    400136: Capsule19
+    400138: Capsule23
+    400140: Capsule24
+    400142: Capsule25
+    400144: Capsule26
+    400146: Capsule27
+    400148: Capsule28
+    400150: Capsule29
+    400152: Capsule30
+    400154: Capsule31
+    400156: Capsule32
+    400158: Capsule33
+    400160: Capt Yacth
+    400162: CargoDoorLight
+    400164: CargoDoorLightF
+    400166: CargoFloor
+    400168: CargoFloor Farragut
+    400170: ChamferBox01
+    400172: ChamferBox02
+    400174: ChamferBox09
+    400176: ChamferCyl01
+    400178: ChamferCyl02
+    400180: ChamferCyl03
+    400182: ChamferCyl04
+    400184: ChamferCyl05
+    400186: ChamferCyl06
+    400188: ChamferCyl08
+    400190: Cylinder01
+    400192: Cylinder02
+    400194: Deflector Light
+    400196: Effect Lights
+    400198: Escape Pods01
+    400200: Escape Pods02
+    400202: Escape Pods03
+    400204: Escape Pods04
+    400206: Escape Pods05
+    400208: Escape Pods06
+    400210: Escape Pods08
+    400212: Farragut Parts
+    400214: Fspot01
+    400216: Fspot02
+    400218: Fspot03
+    400220: Fspot04
+    400222: Fspot05
+    400224: Fspot06
+    400226: Fspot07
+    400228: Fspot08
+    400230: Fspot09
+    400232: Fspot10
+    400234: Fspot11
+    400236: Fspot12
+    400238: Fspot13
+    400240: Fspot14
+    400242: Fspot15
+    400244: Fspot16
+    400246: Fspot17
+    400248: Fspot18
+    400250: Fspot19
+    400252: Fspot20
+    400254: Fspot21
+    400256: Fspot22
+    400258: Fspot23
+    400260: Fspot24
+    400262: Fspot25
+    400264: Fspot26
+    400266: Fspot27
+    400268: Fspot28
+    400270: Fspot29
+    400272: Fspot30
+    400274: Fspot31
+    400276: Fspot32
+    400278: Fspot33
+    400280: Fspot34
+    400282: Fspot35
+    400284: Fspot36
+    400286: Fspot37
+    400288: Fspot38
+    400290: Fspot39
+    400292: Fspot40
+    400294: Fspot41
+    400296: Fspot42
+    400298: Fspot43
+    400300: Fspot44
+    400302: Fspot45
+    400304: Fspot46
+    400306: Fspot47
+    400308: Fspot48
+    400310: Fspot49
+    400312: Fspot50
+    400314: Fspot51
+    400316: Fspot52
+    400318: Fspot53
+    400320: Fspot54
+    400322: Fspot55
+    400324: Fspot56
+    400326: Fspot57
+    400328: Fspot58
+    400330: Fspot59
+    400332: Fspot60
+    400334: Fspot61
+    400336: Fspot62
+    400338: Fspot63
+    400340: Gengon01
+    400342: Gengon02
+    400344: Gengon03
+    400346: Impulse
+    400348: Line65
+    400350: LNacelle
+    400352: LNacelle Light
+    400354: Loft01
+    400356: Loft03
+    400358: Loft06
+    400360: Loft12
+    400362: LPilon
+    400364: LPilon 1
+    400366: LSmall Phaser
+    400368: Nacelle Conn04
+    400370: Nacelle Conn05
+    400372: Nacelle07
+    400374: Nacelle08
+    400376: nDeflector
+    400378: nDeflector Inside
+    400380: //RootNode
+    400382: Object01
+    400384: Object03
+    400386: OilTank01
+    400388: OilTank02
+    400390: OilTank03
+    400392: OilTank04
+    400394: Old_Deflector
+    400396: Old_Deflector inside
+    400398: Omni01
+    400400: Omni02
+    400402: Omni03
+    400404: Omni04
+    400406: Omni05
+    400408: Phoenix Parts
+    400410: Rear Border
+    400412: Rear Shuttle Bay Door Farragut
+    400414: Rectangle01
+    400416: Rectangle121
+    400418: Rectangle15
+    400420: Rectangle31
+    400422: Rectangle317
+    400424: Rectangle318
+    400426: Rectangle319
+    400428: Rectangle32
+    400430: Rectangle320
+    400432: Rectangle321
+    400434: Rectangle322
+    400436: Rectangle34
+    400438: Rectangle37
+    400440: Rectangle389
+    400442: Rectangle393
+    400444: Rectangle394
+    400446: Reg Light
+    400448: Reg Light.Target
+    400450: RNacelle
+    400452: RNacelle Light
+    400454: RPilon
+    400456: RPilon 1
+    400458: RSmall Phaser
+    400460: RunLight01
+    400462: RunLight02
+    400464: RunLight03
+    400466: RunLight04
+    400468: RunLight05
+    400470: RunLight06
+    400472: RunLight07
+    400474: RunLight08
+    400476: RunLight09
+    400478: RunLight10
+    400480: RunLight11
+    400482: RunLight12
+    400484: RunLight13
+    400486: RunLight14
+    400488: RunLight15
+    400490: RunLight16
+    400492: RunLight16 1
+    400494: RunLight17
+    400496: RunLight18
+    400498: RunLight19
+    400500: RunLight20
+    400502: RunLight21
+    400504: RunLight22
+    400506: RunLight23
+    400508: RunLight24
+    400510: RunLight25
+    400512: RunLight26
+    400514: RunLight27
+    400516: RunLight28
+    400518: RunLight29
+    400520: RunLight30
+    400522: Running Lights
+    400524: Saucer
+    400526: Saucer Details B
+    400528: Saucer Details T
+    400530: Saucer_MeshPart0
+    400532: Saucer_MeshPart1
+    400534: Sec Hull
+    400536: Sec Hull Detail
+    400538: Sec Hull Detail01
+    400540: SecHullPhaser
+    400542: Sensor Box Connection
+    400544: Sensor Connection
+    400546: Sensor Pod
+    400548: SensorsPod
+    400550: ShuttleBayDoor
+    400552: ShuttleBayFloor
+    400554: Sphere01
+    400556: Sphere01 1
+    400558: Sutherland Parts
+    400560: Text06
+    400562: Text07
+    400564: Text08
+    400566: Text09
+    400568: Top Phaser
+    400570: Top Sec Hull
+    400572: TopSaucer
+    400574: TopSaucerBorder
+    400576: Waepon Reg Sutherland
+    400578: Weapon Reg Farragut
+    400580: WeaponPod
+    400582: WeaponsPod
+    400584: YellowPart06
+    400586: YellowPart07
+    2300000: Back 1
+    2300002: Back Farragut
+    2300004: Back Reg Farragut
+    2300006: Back Reg Phoenix
+    2300008: Back Reg Sutherland
+    2300010: BackCargoDoor
+    2300012: Bottom Phaser
+    2300014: Box01
+    2300016: Box02
+    2300018: Box03
+    2300020: Box04
+    2300022: Box05
+    2300024: Box06
+    2300026: Box07
+    2300028: Box08
+    2300030: Box09
+    2300032: Box10
+    2300034: Box11
+    2300036: Box12
+    2300038: Box13
+    2300040: Box14
+    2300042: Box15
+    2300044: Box16
+    2300046: Box17
+    2300048: Box18
+    2300050: Box19
+    2300052: Box20
+    2300054: Box21
+    2300056: Box22
+    2300058: Box23
+    2300060: Box24
+    2300062: Box25
+    2300064: Box26
+    2300066: Box27
+    2300068: Box28
+    2300070: Box29
+    2300072: Box30
+    2300074: Box31
+    2300076: Box33
+    2300078: Box34
+    2300080: Box37
+    2300082: Box95
+    2300084: Bussard06
+    2300086: Bussard07
+    2300088: Capsule03
+    2300090: Capsule04
+    2300092: Capsule05
+    2300094: Capsule06
+    2300096: Capsule11
+    2300098: Capsule12
+    2300100: Capsule19
+    2300102: Capsule23
+    2300104: Capsule24
+    2300106: Capsule25
+    2300108: Capsule26
+    2300110: Capsule27
+    2300112: Capsule28
+    2300114: Capsule29
+    2300116: Capsule30
+    2300118: Capsule31
+    2300120: Capsule32
+    2300122: Capsule33
+    2300124: Capt Yacth
+    2300126: CargoFloor
+    2300128: CargoFloor Farragut
+    2300130: ChamferBox01
+    2300132: ChamferBox02
+    2300134: ChamferBox09
+    2300136: ChamferCyl01
+    2300138: ChamferCyl02
+    2300140: ChamferCyl03
+    2300142: ChamferCyl04
+    2300144: ChamferCyl05
+    2300146: ChamferCyl06
+    2300148: ChamferCyl08
+    2300150: Cylinder01
+    2300152: Cylinder02
+    2300154: Escape Pods01
+    2300156: Escape Pods02
+    2300158: Escape Pods03
+    2300160: Escape Pods04
+    2300162: Escape Pods05
+    2300164: Escape Pods06
+    2300166: Escape Pods08
+    2300168: Gengon01
+    2300170: Gengon02
+    2300172: Gengon03
+    2300174: Line65
+    2300176: Loft01
+    2300178: Loft03
+    2300180: Loft06
+    2300182: Loft12
+    2300184: LPilon 1
+    2300186: LSmall Phaser
+    2300188: Nacelle Conn04
+    2300190: Nacelle Conn05
+    2300192: Nacelle07
+    2300194: Nacelle08
+    2300196: nDeflector
+    2300198: nDeflector Inside
+    2300200: Object01
+    2300202: Object03
+    2300204: OilTank01
+    2300206: OilTank02
+    2300208: OilTank03
+    2300210: OilTank04
+    2300212: Old_Deflector
+    2300214: Old_Deflector inside
+    2300216: Rear Border
+    2300218: Rear Shuttle Bay Door Farragut
+    2300220: Rectangle01
+    2300222: Rectangle121
+    2300224: Rectangle15
+    2300226: Rectangle31
+    2300228: Rectangle32
+    2300230: Rectangle322
+    2300232: Rectangle37
+    2300234: Rectangle389
+    2300236: Rectangle393
+    2300238: Rectangle394
+    2300240: RPilon 1
+    2300242: RSmall Phaser
+    2300244: RunLight01
+    2300246: RunLight02
+    2300248: RunLight03
+    2300250: RunLight04
+    2300252: RunLight05
+    2300254: RunLight06
+    2300256: RunLight07
+    2300258: RunLight08
+    2300260: RunLight09
+    2300262: RunLight10
+    2300264: RunLight11
+    2300266: RunLight12
+    2300268: RunLight13
+    2300270: RunLight14
+    2300272: RunLight15
+    2300274: RunLight16 1
+    2300276: Saucer Details B
+    2300278: Saucer Details T
+    2300280: Saucer_MeshPart0
+    2300282: Saucer_MeshPart1
+    2300284: Sec Hull
+    2300286: Sec Hull Detail
+    2300288: Sec Hull Detail01
+    2300290: SecHullPhaser
+    2300292: Sensor Box Connection
+    2300294: Sensor Connection
+    2300296: ShuttleBayDoor
+    2300298: ShuttleBayFloor
+    2300300: Sphere01
+    2300302: Sphere01 1
+    2300304: Text06
+    2300306: Text07
+    2300308: Text08
+    2300310: Text09
+    2300312: Top Phaser
+    2300314: Top Sec Hull
+    2300316: TopSaucer
+    2300318: TopSaucerBorder
+    2300320: Waepon Reg Sutherland
+    2300322: Weapon Reg Farragut
+    2300324: WeaponPod
+    2300326: YellowPart06
+    2300328: YellowPart07
+    3300000: Back 1
+    3300002: Back Farragut
+    3300004: Back Reg Farragut
+    3300006: Back Reg Phoenix
+    3300008: Back Reg Sutherland
+    3300010: BackCargoDoor
+    3300012: Bottom Phaser
+    3300014: Box01
+    3300016: Box02
+    3300018: Box03
+    3300020: Box04
+    3300022: Box05
+    3300024: Box06
+    3300026: Box07
+    3300028: Box08
+    3300030: Box09
+    3300032: Box10
+    3300034: Box11
+    3300036: Box12
+    3300038: Box13
+    3300040: Box14
+    3300042: Box15
+    3300044: Box16
+    3300046: Box17
+    3300048: Box18
+    3300050: Box19
+    3300052: Box20
+    3300054: Box21
+    3300056: Box22
+    3300058: Box23
+    3300060: Box24
+    3300062: Box25
+    3300064: Box26
+    3300066: Box27
+    3300068: Box28
+    3300070: Box29
+    3300072: Box30
+    3300074: Box31
+    3300076: Box33
+    3300078: Box34
+    3300080: Box37
+    3300082: Box95
+    3300084: Bussard06
+    3300086: Bussard07
+    3300088: Capsule03
+    3300090: Capsule04
+    3300092: Capsule05
+    3300094: Capsule06
+    3300096: Capsule11
+    3300098: Capsule12
+    3300100: Capsule19
+    3300102: Capsule23
+    3300104: Capsule24
+    3300106: Capsule25
+    3300108: Capsule26
+    3300110: Capsule27
+    3300112: Capsule28
+    3300114: Capsule29
+    3300116: Capsule30
+    3300118: Capsule31
+    3300120: Capsule32
+    3300122: Capsule33
+    3300124: Capt Yacth
+    3300126: CargoFloor
+    3300128: CargoFloor Farragut
+    3300130: ChamferBox01
+    3300132: ChamferBox02
+    3300134: ChamferBox09
+    3300136: ChamferCyl01
+    3300138: ChamferCyl02
+    3300140: ChamferCyl03
+    3300142: ChamferCyl04
+    3300144: ChamferCyl05
+    3300146: ChamferCyl06
+    3300148: ChamferCyl08
+    3300150: Cylinder01
+    3300152: Cylinder02
+    3300154: Escape Pods01
+    3300156: Escape Pods02
+    3300158: Escape Pods03
+    3300160: Escape Pods04
+    3300162: Escape Pods05
+    3300164: Escape Pods06
+    3300166: Escape Pods08
+    3300168: Gengon01
+    3300170: Gengon02
+    3300172: Gengon03
+    3300174: Line65
+    3300176: Loft01
+    3300178: Loft03
+    3300180: Loft06
+    3300182: Loft12
+    3300184: LPilon 1
+    3300186: LSmall Phaser
+    3300188: Nacelle Conn04
+    3300190: Nacelle Conn05
+    3300192: Nacelle07
+    3300194: Nacelle08
+    3300196: nDeflector
+    3300198: nDeflector Inside
+    3300200: Object01
+    3300202: Object03
+    3300204: OilTank01
+    3300206: OilTank02
+    3300208: OilTank03
+    3300210: OilTank04
+    3300212: Old_Deflector
+    3300214: Old_Deflector inside
+    3300216: Rear Border
+    3300218: Rear Shuttle Bay Door Farragut
+    3300220: Rectangle01
+    3300222: Rectangle121
+    3300224: Rectangle15
+    3300226: Rectangle31
+    3300228: Rectangle32
+    3300230: Rectangle322
+    3300232: Rectangle37
+    3300234: Rectangle389
+    3300236: Rectangle393
+    3300238: Rectangle394
+    3300240: RPilon 1
+    3300242: RSmall Phaser
+    3300244: RunLight01
+    3300246: RunLight02
+    3300248: RunLight03
+    3300250: RunLight04
+    3300252: RunLight05
+    3300254: RunLight06
+    3300256: RunLight07
+    3300258: RunLight08
+    3300260: RunLight09
+    3300262: RunLight10
+    3300264: RunLight11
+    3300266: RunLight12
+    3300268: RunLight13
+    3300270: RunLight14
+    3300272: RunLight15
+    3300274: RunLight16 1
+    3300276: Saucer Details B
+    3300278: Saucer Details T
+    3300280: Saucer_MeshPart0
+    3300282: Saucer_MeshPart1
+    3300284: Sec Hull
+    3300286: Sec Hull Detail
+    3300288: Sec Hull Detail01
+    3300290: SecHullPhaser
+    3300292: Sensor Box Connection
+    3300294: Sensor Connection
+    3300296: ShuttleBayDoor
+    3300298: ShuttleBayFloor
+    3300300: Sphere01
+    3300302: Sphere01 1
+    3300304: Text06
+    3300306: Text07
+    3300308: Text08
+    3300310: Text09
+    3300312: Top Phaser
+    3300314: Top Sec Hull
+    3300316: TopSaucer
+    3300318: TopSaucerBorder
+    3300320: Waepon Reg Sutherland
+    3300322: Weapon Reg Farragut
+    3300324: WeaponPod
+    3300326: YellowPart06
+    3300328: YellowPart07
+    4300000: Top Phaser
+    4300002: Bottom Phaser
+    4300004: Old_Deflector inside
+    4300006: Rectangle121
+    4300008: Rectangle15
+    4300010: Sec Hull Detail01
+    4300012: Saucer Details B
+    4300014: Sec Hull Detail
+    4300016: RunLight01
+    4300018: RunLight02
+    4300020: RunLight03
+    4300022: RunLight04
+    4300024: RunLight05
+    4300026: RunLight06
+    4300028: RunLight07
+    4300030: RunLight08
+    4300032: RunLight09
+    4300034: RunLight10
+    4300036: RunLight11
+    4300038: RunLight12
+    4300040: RunLight13
+    4300042: RunLight14
+    4300044: RunLight15
+    4300046: RunLight16
+    4300048: Saucer_MeshPart0
+    4300050: Saucer_MeshPart1
+    4300052: ShuttleBayFloor
+    4300054: LSmall Phaser
+    4300056: RSmall Phaser
+    4300058: Old_Deflector
+    4300060: Capt Yacth
+    4300062: Nacelle07
+    4300064: Bussard06
+    4300066: Nacelle Conn04
+    4300068: YellowPart06
+    4300070: Box37
+    4300072: OilTank01
+    4300074: OilTank02
+    4300076: Rectangle389
+    4300078: LPilon
+    4300080: SecHullPhaser
+    4300082: Top Sec Hull
+    4300084: Sec Hull
+    4300086: Back Farragut
+    4300088: Back Reg Farragut
+    4300090: Rear Shuttle Bay Door Farragut
+    4300092: CargoFloor Farragut
+    4300094: Text06
+    4300096: Text09
+    4300098: Weapon Reg Farragut
+    4300100: Back
+    4300102: BackCargoDoor
+    4300104: CargoFloor
+    4300106: Rear Border
+    4300108: Box27
+    4300110: Sensor Box Connection
+    4300112: Rectangle322
+    4300114: Rectangle37
+    4300116: ChamferCyl01
+    4300118: Box23
+    4300120: Box05
+    4300122: Box04
+    4300124: Gengon01
+    4300126: ChamferBox09
+    4300128: Capsule33
+    4300130: Capsule32
+    4300132: Capsule31
+    4300134: Capsule30
+    4300136: Capsule29
+    4300138: Capsule28
+    4300140: Capsule27
+    4300142: Capsule26
+    4300144: Capsule25
+    4300146: Capsule24
+    4300148: Capsule23
+    4300150: Capsule19
+    4300152: Capsule12
+    4300154: Capsule11
+    4300156: Capsule06
+    4300158: Capsule05
+    4300160: Capsule04
+    4300162: Capsule03
+    4300164: Box31
+    4300166: Box30
+    4300168: Box29
+    4300170: Box28
+    4300172: Sensor Connection
+    4300174: Box26
+    4300176: Box25
+    4300178: Box24
+    4300180: Box07
+    4300182: Box22
+    4300184: Box21
+    4300186: Box20
+    4300188: Box19
+    4300190: Box18
+    4300192: Box17
+    4300194: Box16
+    4300196: Box15
+    4300198: Box14
+    4300200: Box13
+    4300202: Box12
+    4300204: Box11
+    4300206: Box10
+    4300208: Box09
+    4300210: Box08
+    4300212: Box06
+    4300214: Loft12
+    4300216: ChamferCyl05
+    4300218: ChamferCyl04
+    4300220: Box03
+    4300222: Box02
+    4300224: ChamferCyl02
+    4300226: ChamferCyl03
+    4300228: Loft06
+    4300230: Box33
+    4300232: ChamferCyl06
+    4300234: WeaponPod
+    4300236: Gengon02
+    4300238: Gengon03
+    4300240: Sphere01
+    4300242: Line65
+    4300244: Rectangle31
+    4300246: Rectangle32
+    4300248: Rectangle393
+    4300250: Loft03
+    4300252: Rectangle01
+    4300254: TopSaucer
+    4300256: TopSaucerBorder
+    4300258: Escape Pods08
+    4300260: Escape Pods01
+    4300262: Escape Pods06
+    4300264: Escape Pods05
+    4300266: Escape Pods02
+    4300268: Escape Pods03
+    4300270: Escape Pods04
+    4300272: Saucer Details T
+    4300274: RPilon
+    4300276: Rectangle394
+    4300278: nDeflector Inside
+    4300280: nDeflector
+    4300282: Box95
+    4300284: OilTank03
+    4300286: OilTank04
+    4300288: Nacelle08
+    4300290: Bussard07
+    4300292: Nacelle Conn05
+    4300294: YellowPart07
+    4300296: ShuttleBayDoor
+    4300298: Waepon Reg Sutherland
+    4300300: Back Reg Sutherland
+    4300302: Text07
+    4300304: Text08
+    4300306: Back Reg Phoenix
+    4300308: Sphere01
+    4300310: Object01
+    4300312: Loft01
+    4300314: Box34
+    4300316: Cylinder02
+    4300318: Cylinder01
+    4300320: Box01
+    4300322: Object03
+    4300324: ChamferBox02
+    4300326: ChamferCyl08
+    4300328: ChamferBox01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

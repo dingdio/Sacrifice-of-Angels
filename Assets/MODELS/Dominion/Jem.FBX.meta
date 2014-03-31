@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: fa52b178d89d8ce42a789424f87c2d8d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: back
+    100002: GeoSphere0
+    100004: GLOWS
+    100006: HULL BLUE
+    100008: HULL BLUE-GREY
+    100010: HULL GREY
+    100012: HULL LIGHT-BLUE
+    100014: HULL PURPLE
+    100016: HULL RED-ORANGE
+    100018: INSIGNIA
+    100020: //RootNode
+    100022: Line02
+    100024: Line05
+    100026: Line48
+    100028: Mesh010
+    100030: Mesh030
+    100032: Mesh080
+    100034: Mesh100
+    100036: Mesh29
+    100038: Mesh30
+    100040: Mesh37
+    100042: Mesh41
+    100044: Mesh42
+    100046: Mesh43
+    100048: Object01
+    100050: Object02
+    100052: Object04
+    100054: Rectangl27
+    100056: Rectangle02
+    100058: Rectangle07
+    100060: Shape01
+    100062: Shape04
+    100064: Shape05
+    100066: Shape06
+    100068: Sphere01
+    100070: WINDOW LIGHTS
+    400000: back
+    400002: GeoSphere0
+    400004: GLOWS
+    400006: HULL BLUE
+    400008: HULL BLUE-GREY
+    400010: HULL GREY
+    400012: HULL LIGHT-BLUE
+    400014: HULL PURPLE
+    400016: HULL RED-ORANGE
+    400018: INSIGNIA
+    400020: //RootNode
+    400022: Line02
+    400024: Line05
+    400026: Line48
+    400028: Mesh010
+    400030: Mesh030
+    400032: Mesh080
+    400034: Mesh100
+    400036: Mesh29
+    400038: Mesh30
+    400040: Mesh37
+    400042: Mesh41
+    400044: Mesh42
+    400046: Mesh43
+    400048: Object01
+    400050: Object02
+    400052: Object04
+    400054: Rectangl27
+    400056: Rectangle02
+    400058: Rectangle07
+    400060: Shape01
+    400062: Shape04
+    400064: Shape05
+    400066: Shape06
+    400068: Sphere01
+    400070: WINDOW LIGHTS
+    2300000: back
+    2300002: GeoSphere0
+    2300004: HULL GREY
+    2300006: HULL LIGHT-BLUE
+    2300008: HULL PURPLE
+    2300010: Line02
+    2300012: Line05
+    2300014: Line48
+    2300016: Mesh010
+    2300018: Mesh030
+    2300020: Mesh080
+    2300022: Mesh100
+    2300024: Mesh29
+    2300026: Mesh30
+    2300028: Mesh37
+    2300030: Mesh41
+    2300032: Mesh42
+    2300034: Mesh43
+    2300036: Object01
+    2300038: Object02
+    2300040: Object04
+    2300042: Rectangl27
+    2300044: Rectangle02
+    2300046: Rectangle07
+    2300048: Shape01
+    2300050: Shape04
+    2300052: Shape05
+    2300054: Shape06
+    2300056: Sphere01
+    2300058: WINDOW LIGHTS
+    3300000: back
+    3300002: GeoSphere0
+    3300004: HULL GREY
+    3300006: HULL LIGHT-BLUE
+    3300008: HULL PURPLE
+    3300010: Line02
+    3300012: Line05
+    3300014: Line48
+    3300016: Mesh010
+    3300018: Mesh030
+    3300020: Mesh080
+    3300022: Mesh100
+    3300024: Mesh29
+    3300026: Mesh30
+    3300028: Mesh37
+    3300030: Mesh41
+    3300032: Mesh42
+    3300034: Mesh43
+    3300036: Object01
+    3300038: Object02
+    3300040: Object04
+    3300042: Rectangl27
+    3300044: Rectangle02
+    3300046: Rectangle07
+    3300048: Shape01
+    3300050: Shape04
+    3300052: Shape05
+    3300054: Shape06
+    3300056: Sphere01
+    3300058: WINDOW LIGHTS
+    4300000: Rectangle07
+    4300002: Rectangle02
+    4300004: Mesh37
+    4300006: Shape01
+    4300008: Shape06
+    4300010: back
+    4300012: Sphere01
+    4300014: Line02
+    4300016: Rectangl27
+    4300018: Line48
+    4300020: Object02
+    4300022: Object01
+    4300024: GeoSphere0
+    4300026: Object04
+    4300028: Shape04
+    4300030: Shape05
+    4300032: Mesh010
+    4300034: Mesh100
+    4300036: Mesh30
+    4300038: Mesh29
+    4300040: Mesh030
+    4300042: Mesh080
+    4300044: Mesh43
+    4300046: Mesh41
+    4300048: Mesh42
+    4300050: Line05
+    4300052: HULL GREY
+    4300054: HULL LIGHT-BLUE
+    4300056: HULL PURPLE
+    4300058: WINDOW LIGHTS
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
