@@ -1,0 +1,32 @@
+newmtl Material_1
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 8.000000
+map_Kd FED_Frigate_Light_Miranda-cl.dds
+
+newmtl Material_2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 8.000000
+map_Kd FED_Frigate_Saucer-cl.dds
+
+newmtl Material_3
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 8.000000
+map_Kd Shared_Lighting-cl.dds
+
+newmtl Material_4
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 8.000000
+map_Kd FED_Frigate_Scout_Constitution-cl.dds
+
